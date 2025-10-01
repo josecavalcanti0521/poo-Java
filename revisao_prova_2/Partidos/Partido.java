@@ -7,6 +7,10 @@ public class Partido {
     int filiados;
     int assinaturas;
 
+    boolean aprovado() {
+        return assinaturas >= 491656;
+    }
+
     boolean aprovado(int NumeroDeAssinaturasMinimas) {
         return this.assinaturas >= NumeroDeAssinaturasMinimas; 
     }

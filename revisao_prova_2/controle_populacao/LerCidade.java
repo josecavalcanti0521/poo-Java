@@ -48,7 +48,6 @@ public class LerCidade {
             System.out.println("Area = " + cidades[i].area);
             System.out.println("Densidade = " + cidades[i].densidadeDemografica());
             System.out.println("Ideal = " + cidades[i].densidadeIdeal(densidadeDemograficaIdeal));
-            
         }
 
         System.out.println("Soma da populaçoes = " + somaPopulacoes);
