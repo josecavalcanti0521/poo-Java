@@ -5,17 +5,12 @@ public class MovimentoCartao {
         CartaoEspecial c1 = new CartaoEspecial(1, "João", 500, 50);
 
         c1.comprar(50);
-        c1.mostrarDados();
         c1.comprar(49);
-        c1.mostrarDados();
         c1.comprar(450);
-        c1.mostrarDados();
         c1.comprar(50);
-        c1.mostrarDados();
         c1.pagar(50);
-        c1.mostrarDados();
         c1.comprar(50);
-        c1.mostrarDados();
         c1.pagarTudo();
+        c1.mostrarDados();
     }
 }
