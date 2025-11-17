@@ -18,9 +18,8 @@ Elas pertencem a outros recursos da linguagem (JAR é empacotamento, interface �
 “Uma interface em Java é um recurso que no seu interior contém somente métodos abstratos.
 Ela serve para que classes baseadas nessa interface implementem esses métodos para fins específicos.
 Para utilizar uma interface devemos utilizar o comando implements que permite referenciar apenas uma interface.
-Informe verdadeiro ou falso e justifique.”
+Informe verdadeiro ou falso e justifique.”***
 
-***
 ✅ Resposta correta para Java 6: FALSO (tem dois erros)
 
 Justificativa:
