@@ -17,7 +17,7 @@ public abstract class LerPiramide {
             System.out.print("Digite o lado: ");
             p.setLado(sc.nextDouble());
 
-            sc.close();
         }
+        sc.close();
     }
 }

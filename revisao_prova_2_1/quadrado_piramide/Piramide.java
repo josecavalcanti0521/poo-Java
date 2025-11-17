@@ -46,7 +46,7 @@ public class Piramide extends Quadrado {
         System.out.println("Perimetro da base: " + super.perimetro());
         System.out.println("Altura do lado: " + this.alturaLado());
         System.out.println("Área lateral: " + this.areaLateral());
-        System.out.println("Área: " + this.area());
+        System.out.println("Área base: " + this.area());
         System.out.println("Volume: " + this.volume());
     }
 }
